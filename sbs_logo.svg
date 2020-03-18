@@ -1,0 +1,36 @@
+<svg width="325" height="275" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="277" width="327" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="31.5" height="400" width="580" id="svg_1"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_2" height="39" width="40" y="166.4375" x="27" stroke-width="1.5" fill="#000000"/>
+  <text stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="40" id="svg_5" y="108.4375" x="-15" stroke-opacity="null" stroke-width="0" fill="#000000" transform="rotate(-90 48.33593750000001,94.4375) ">SONIC</text>
+  <rect stroke="#000" id="svg_6" height="39" width="40" y="166.4375" x="73" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#000" id="svg_7" height="39" width="40" y="121.4375" x="73" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#000" id="svg_8" height="39" width="40" y="166.4375" x="119" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#000" id="svg_9" height="39" width="40" y="121.4375" x="119" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#000" id="svg_10" height="39" width="40" y="166.4375" x="165" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#000" id="svg_11" height="39" width="40" y="121.4375" x="165" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#DDDDDD" id="svg_13" height="39" width="40" y="31.4375" x="73" stroke-width="1.5" fill="#DDDDDD"/>
+  <rect stroke="#000" id="svg_15" height="39" width="40" y="166.4375" x="211" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#000" id="svg_16" height="39" width="40" y="166.4375" x="257" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#000" id="svg_17" height="39" width="40" y="121.4375" x="257" stroke-width="1.5" fill="#000000"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" x="558.5" y="273" id="svg_23" font-size="40" font-family="Oswald, sans-serif" text-anchor="start" xml:space="preserve"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" x="691.5" y="160" id="svg_24" font-size="40" font-family="Oswald, sans-serif" text-anchor="start" xml:space="preserve"/>
+  <text stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="40" id="svg_3" y="66.4375" x="118" stroke-opacity="null" stroke-width="0" fill="#000000" transform="rotate(0 172.43749999999866,52.437499999997854) ">BLUE</text>
+  <text stroke="#000" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="40" id="svg_4" y="242.4375" x="29" stroke-opacity="null" stroke-width="0" fill="#000000" transform="rotate(0 124.95312499999228,228.4375000000003) ">SUNDAYS</text>
+  <rect stroke="#444444" id="svg_25" height="39" width="40" y="77.4375" x="119" stroke-width="1.5" fill="#444444"/>
+  <rect stroke="#000" id="svg_28" height="39" width="40" y="121.4375" x="211" stroke-width="1.5" fill="#000000"/>
+  <rect stroke="#444444" id="svg_29" height="39" width="40" y="77.4375" x="211" stroke-width="1.5" fill="#444444"/>
+  <rect stroke="#444444" id="svg_30" height="39" width="40" y="77.4375" x="73" stroke-width="1.5" fill="#444444"/>
+  <rect stroke="#DDDDDD" id="svg_31" height="39" width="40" y="31.4375" x="257" stroke-width="1.5" fill="#DDDDDD"/>
+  <rect stroke="#444444" id="svg_32" height="39" width="40" y="77.4375" x="257" stroke-width="1.5" fill="#444444"/>
+ </g>
+</svg>
